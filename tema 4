@@ -1,0 +1,7 @@
+Det här är nog den allra enklaste laborationen för er att göra, men kanske intressantast att skriva rapporten om. Det finns två steg i denna laboration, som ska beskrivas i en enda rapport (lämpligtvis PDF-format).
+Första deluppgiften - Dokumentering, del 2
+
+Om ni har skrivit publika Wikisidor på något annat än wikipedia (för att det kan ta mycket tid att kolla vem som skrivit vad där) så behöver ni inte skriva en ny, annars är det bara att skapa en ny sida på vår sandbox. Det viktigaste är inte vad den handlar om, utan huvudsaken är att ni har en sida där ni skrivit merparten av texten samt formatterat texten med den Wiki-formatteringen som gäller för den Wikin. Rapporten ska innehålla källkoden (alltså inte hur det ser ut on-line) för sidan samt en kortare diskussion om att skriva med hjälp av Wiki. I rapporten så ska det finnas en hänvisning till er Wikisida, samt en beskrivning av skillnaden mellan Tracs Wikiformat och den som ni använt.
+Andra deluppgiften - Felhantering
+
+Nu ska ni skapa tickets samt se beskriva vilka attribut som finns på dem och vilka tillstånd man kan få dem till (gärna med diagram över hur man kan gå mellan tillstånd). Ticketarna skapas och hanteras lämpligvis i vår sandbox. Diskutera kort hur du tycker att arbetsgången borde vara och eventuellt hur den skulle kunna förbättras. Har du tidigare erfarenhet av andra system så uppskattas jämförelser!
